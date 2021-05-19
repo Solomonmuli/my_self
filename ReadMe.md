@@ -2,7 +2,7 @@
 # MULI SOLOMON
 ---
 
-![image](patrick.png)
+![image](sponge.webp)
 
 
 <!-- my bio -->
