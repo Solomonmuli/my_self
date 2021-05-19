@@ -3,15 +3,15 @@
 ---
 
 <!-- my bio -->
-## About My Self
+## About MySelf
 
 I am solomon student a Moringa school. I am also passionate about coding and creation Websites. i look forward to be a world-class developer in the future and offer solutions to real-world problems.
 
-|SOLOMON |SOLMON| SOLOMON|
+|NO |PROJECT| LANGUAGE USED|
 | ---| ---|---|
-|SOLOMON|SOLOMON|SOLOMON|
-|SOLOMON|SOLOMON|SOLOMON|
-|SOLOMON|SOLOMON|SOLOMON|
+|1|MY FAVOURITE BAND|HTML ,CSS|
+|2|ANITA'S KITCHEN|HTML, CSS|
+|3|DIARY BUSINESS|JAVASCRIPT|
 
 ---
 
@@ -31,9 +31,15 @@ I am solomon student a Moringa school. I am also passionate about coding and cre
 - Be a world-class software engineer in the future
 
 ---
+
+
+
+
+
+
 ## License & copyright
 
-#### Copyright © Solomon Muli,
+#### Copyright © Solomon Muli, My bio 
 
 
 
