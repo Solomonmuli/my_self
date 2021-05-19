@@ -2,15 +2,13 @@
 # MULI SOLOMON
 ---
 
-![image](sponge.webp)
-
-
+![image](patrick.png)
 
 
 <!-- my bio -->
 ## About MySelf
 
-I am solomon student a Moringa school. I am also passionate about coding and creation Websites. i look forward to be a world-class developer in the future and offer solutions to real-world problems.
+I am solomon a student at Moringa school. I am also passionate about coding and creation Websites. i look forward to be a world-class developer in the future and offer solutions to real-world problems.
 
 |NO |PROJECTS| LANGUAGE USED|
 | ---| ---|---|
@@ -40,7 +38,7 @@ I am solomon student a Moringa school. I am also passionate about coding and cre
 
 
 
-
+<!-- License info -->
 
 ## License & copyright
 
