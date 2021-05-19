@@ -30,6 +30,7 @@ I am solomon student a Moringa school. I am also passionate about coding and cre
 - Develope open-source software that will live on their own.
 - Be a world-class software engineer in the future
 
+---
 ## License & copyright
 
 #### Copyright © Solomon Muli,
