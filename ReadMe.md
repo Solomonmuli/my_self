@@ -12,15 +12,15 @@
 
 I am solomon student a Moringa school. I am also passionate about coding and creation Websites. i look forward to be a world-class developer in the future and offer solutions to real-world problems.
 
-|NO |PROJECT| LANGUAGE USED|
+|NO |PROJECTS| LANGUAGE USED|
 | ---| ---|---|
-|1|MY FAVOURITE BAND|HTML ,CSS|
-|2|ANITA'S KITCHEN|HTML, CSS|
-|3|DIARY BUSINESS|JAVASCRIPT|
+|1|[MY FAVOURITE BAND](https://solomonmuli.github.io/Favourite-Band/)|HTML ,CSS|
+|2|[ANITA'S KITCHEN](https://solomonmuli.github.io/anita-kitchen/)|HTML, CSS|
+|3|[DIARY BUSINESS](https://solomonmuli.github.io/Diary-Business/)|JAVASCRIPT|
 
 ---
 
-----
+---
 
 <!-- Info about my hobbies -->
 ## Hobbies
