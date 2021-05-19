@@ -39,7 +39,7 @@ I am solomon a student at Moringa school from Kenya, based in Nairobi. I am also
 
 Cell : 0714 728-941
 
-email: [mulislmn@gmail.com]()
+email: [mulislmn@gmail.com](#)
 
 github:[Solomonmuli](https://github.com/Solomonmuli)
 
