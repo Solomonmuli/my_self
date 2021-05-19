@@ -2,6 +2,11 @@
 # MULI SOLOMON
 ---
 
+![image](sponge.webp)
+
+
+
+
 <!-- my bio -->
 ## About MySelf
 
