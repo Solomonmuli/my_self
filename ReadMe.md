@@ -8,7 +8,7 @@
 <!-- my bio -->
 ## About MySelf
 
-I am solomon a student at Moringa school. I am also passionate about coding and creation Websites. i look forward to be a world-class developer in the future and offer solutions to real-world problems.
+I am solomon a student at Moringa school from Kenya, based in Nairobi. I am also passionate about coding and creating Websites. i look forward to be a world-class developer in the future and offer solutions to real-world problems.
 
 |NO |PROJECTS| LANGUAGE USED|
 | ---| ---|---|
@@ -35,9 +35,15 @@ I am solomon a student at Moringa school. I am also passionate about coding and 
 
 ---
 
+## Contact Info
 
+Cell : 0714 728-941
 
+email: [mulislmn@gmail.com]()
 
+github:[Solomonmuli](https://github.com/Solomonmuli)
+
+---
 <!-- License info -->
 
 ## License & copyright
