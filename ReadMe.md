@@ -30,7 +30,7 @@ I am solomon a student at Moringa school from Kenya, based in Nairobi. I am also
 
 ## Wishlist
 
-- Develope open-source software that will live on their own.
+- Develop open-source software that will live on their own.
 - Be a world-class software engineer in the future
 
 ---
@@ -39,7 +39,7 @@ I am solomon a student at Moringa school from Kenya, based in Nairobi. I am also
 
 Cell : 0714 728-941
 
-email: [mulislmn@gmail.com](#)
+email: [mulislmn@gmail.com](mailto:mulislmn@gmail.com)
 
 github:[Solomonmuli](https://github.com/Solomonmuli)
 
