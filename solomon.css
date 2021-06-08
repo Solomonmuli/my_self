@@ -44,3 +44,11 @@ a:hover{
 .container img{
   float: right;
 }
+.row1,.row2,.row3{
+  margin-bottom: 20px;
+  padding: 10px;
+  line-height: 25px;
+}
+hr{
+  width: 500px;
+}
