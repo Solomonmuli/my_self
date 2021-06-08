@@ -73,3 +73,32 @@ hr{
 .hobbies h3{
   margin: 10px 0;
 }
+/* .footer{
+  margin-top: 150px;
+
+} */
+.footer a {
+  padding: 5px;
+  text-decoration: none;
+  margin-right: 10px;
+
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  border-radius: 300px;
+}.fa-twitter{
+  background: #55ACEE;
+  color: white;
+  border-radius: 300px;
+}
+.fa-linkedin{
+  background: #0073AF;
+  color: white;
+  border-radius: 300px;
+}
+.fa-instagram{
+  background: #8A66B2;
+  color: white;
+  border-radius: 300px;
+}
